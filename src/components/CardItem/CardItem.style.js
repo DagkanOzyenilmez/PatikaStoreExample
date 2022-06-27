@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     },
     title :{
         fontWeight: 'bold',
-        fontSize: 14,
+        fontSize: 15,
     },
     price: {
         fontWeight: 'bold',
